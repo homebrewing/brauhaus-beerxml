@@ -1,6 +1,6 @@
 Brauhaus.js BeerXML Plugin
 ==========================
-[![Dependency Status](https://gemnasium.com/danielgtaylor/brauhaus-beerxml.png)](https://gemnasium.com/danielgtaylor/brauhaus-beerxml) [![Build Status](https://travis-ci.org/homebrewing/brauhaus-beerxml.png)](https://travis-ci.org/homebrewing/brauhaus-beerxml) [![Coverage Status](https://coveralls.io/repos/homebrewing/brauhaus-beerxml/badge.png?branch=master)](https://coveralls.io/r/homebrewing/brauhaus-beerxml?branch=master) [![NPM version](https://badge.fury.io/js/brauhaus-beerxml.png)](http://badge.fury.io/js/brauhaus-beerxml)
+[![Dependency Status](https://gemnasium.com/homebrewing/brauhaus-beerxml.png)](https://gemnasium.com/homebrewing/brauhaus-beerxml) [![Build Status](https://travis-ci.org/homebrewing/brauhaus-beerxml.png?branch=master)](https://travis-ci.org/homebrewing/brauhaus-beerxml) [![Coverage Status](https://coveralls.io/repos/homebrewing/brauhaus-beerxml/badge.png?branch=master)](https://coveralls.io/r/homebrewing/brauhaus-beerxml?branch=master) [![NPM version](https://badge.fury.io/js/brauhaus-beerxml.png)](http://badge.fury.io/js/brauhaus-beerxml)
 
 A plugin for [Brauhaus.js](https://github.com/homebrewing/brauhausjs) that adds [BeerXML 1.0](http://www.beerxml.com/) import and export capabilities. Features include:
 
