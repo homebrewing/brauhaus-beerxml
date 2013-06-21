@@ -5,7 +5,7 @@ Brauhaus.js BeerXML Plugin
 A plugin for [Brauhaus.js](https://github.com/homebrewing/brauhausjs) that adds [BeerXML 1.0](http://www.beerxml.com/) import and export capabilities. Features include:
 
  * Support for multiple Javascript runtimes
-   * Node.js 0.8.19+, 0.10.x
+   * [Node.js](http://nodejs.org/) 0.8.19+, 0.10.x
    * Chrome, Firefox, Internet Explorer 9+, Safari, Opera, etc
  * BeerXML 1.0 import / export
  * About 12kb when minified
