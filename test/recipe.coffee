@@ -300,8 +300,8 @@ describe 'BeerXML', ->
         it 'Should have a FG of 1.011', ->
             assert.equal 1.011, recipe.fg.toFixed 3
 
-        it 'Should have an IBU of 49.4', ->
-            assert.equal 49.4, recipe.ibu.toFixed 1
+        it 'Should have an IBU of 51.0', ->
+            assert.equal 51.0, recipe.ibu.toFixed 1
 
         it 'Should have a mash object', ->
             assert.ok recipe.mash.steps

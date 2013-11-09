@@ -1,6 +1,6 @@
 {
   "name": "brauhaus-beerxml",
-  "version": "0.5.4",
+  "version": "1.0.0",
   "description": "A BeerXML import and export plugin for Brauhaus.js",
   "homepage": "https://github.com/homebrewing/brauhaus-beerxml",
   "main": "lib/brauhaus-beerxml.js",
@@ -35,10 +35,10 @@
     "xmldom": "0.1.x"
   },
   "peerDependencies": {
-    "brauhaus": ">=0.5.4 <1"
+    "brauhaus": ">=1 <2"
   },
   "devDependencies": {
-    "brauhaus": ">=0.5.4 <1",
+    "brauhaus": ">=1 <2",
     "coffee-script": ">=1.6.2 <2",
     "coffeelint": ">=0.5.6 <1",
     "mocha": "1.9.x",
